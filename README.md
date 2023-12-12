@@ -4,12 +4,16 @@ This simple stopwatch project is a browser-based timer that counts elapsed time 
 
 # Features
 . Start: Begin the stopwatch to measure time.
+
 . Stop: Pause the stopwatch at the current time.
+
 . Restart: Reset the stopwatch to zero.
 
 Technologies Used
 . HTML: Structured the basic layout of the stopwatch.
+
 . CSS: Styled the stopwatch for a user-friendly interface.
+
 . JavaScript: Implemented the logic to create the stopwatch functionality.
 
 # Contributing
