@@ -46,3 +46,14 @@ botton:hover {
   border: solid 1px #ffffff;
   color: #1b1b1b;
 }
+@media screen and (max-width: 724px) {
+  h1 {
+    font-size: 60px;
+  }
+  button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
+  }
+}
